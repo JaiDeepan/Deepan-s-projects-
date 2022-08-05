@@ -1,0 +1,4 @@
+Import math as m
+Radius=float (input ("Enter the radius of the circle:"))
+Area=m.pi*Radius*Radius
+Print("Area of the circle:",Area)
